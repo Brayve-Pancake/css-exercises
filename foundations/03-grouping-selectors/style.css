@@ -1,0 +1,11 @@
+.priority-one {
+  background-color: rgb(0, 0, 0);
+  color: #FFFFFF;
+}
+.priority-two {
+  background-color: yellow;
+}
+button {
+  font-size: 28;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
