@@ -5,7 +5,8 @@
 .priority-two {
   background-color: yellow;
 }
-button {
+.priority-one,
+.priority-two {
   font-size: 28;
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
